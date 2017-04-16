@@ -1,0 +1,263 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"fon",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 360.0,
+		"last_filter": "Package Control Install",
+		"selected_items":
+		[
+			[
+				"Package Control Install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/jsand/Downloads/scope-quiz-unsolved.html",
+		"/C/Users/jsand/Downloads/this-unsolved.html",
+		"/C/Users/jsand/Desktop/Unsolved/captain-planet-game.html",
+		"/C/Users/jsand/Desktop/3-9.html",
+		"/C/Users/jsand/Desktop/fridge_starter/fridge.html",
+		"/C/Users/jsand/Documents/Coding Bootcamp/Psychic-Game/assets/javascript/game.js",
+		"/C/Users/jsand/Documents/Coding Bootcamp/Psychic-Game/index.html",
+		"/C/Users/jsand/Documents/Coding Bootcamp/Responsive-Portfolio/index.html",
+		"/C/Users/jsand/Documents/Coding Bootcamp/Hangman-Game/index.html",
+		"/C/Users/jsand/Documents/Coding Bootcamp/JavaScript Notes.html",
+		"/C/Users/jsand/Downloads/onclick.html",
+		"/C/Users/jsand/Downloads/sandwich-click-unsolved.html",
+		"/C/Users/jsand/Downloads/3.html",
+		"/C/Users/jsand/Downloads/jquery-drinklist-unsolved.html",
+		"/C/Users/jsand/Downloads/drinklist-unsolved.html",
+		"/C/Users/jsand/Desktop/test.html",
+		"/C/Users/jsand/Documents/Coding Bootcamp/Bootstrap-Portfolio/contact.html",
+		"/C/Users/jsand/Downloads/car-object-unsolved.html",
+		"/C/Users/jsand/Downloads/rps-8.html",
+		"/C/Users/jsand/Downloads/car-object-solved.html",
+		"/C/Users/jsand/Downloads/array-setting-unsolved.html",
+		"/C/Users/jsand/Downloads/array-logs-unsolved.html",
+		"/C/Users/jsand/Downloads/my-first-functions-solved.html",
+		"/C/Users/jsand/Downloads/superhero-logging-solved-with-functions (1).html",
+		"/C/Users/jsand/Downloads/my-first-functions-unsolved (1).html",
+		"/C/Users/jsand/Downloads/loop-tv-unsolved (1).html",
+		"/C/Users/jsand/Downloads/conditional-demo.html",
+		"/C/Users/jsand/Downloads/pizza-variables-2.html",
+		"/C/Users/jsand/Downloads/pizza-variables.html",
+		"/C/Users/jsand/Downloads/js-dissect-unsolved.html",
+		"/C/Users/jsand/Documents/Coding Bootcamp/Responsive-Portfolio/assets/css/style.css",
+		"/C/Users/jsand/Documents/Coding Bootcamp/Responsive-Portfolio/portfolio.html",
+		"/C/Users/jsand/Documents/Coding Bootcamp/Responsive-Portfolio/test.html",
+		"/C/Users/jsand/Documents/Coding Bootcamp/Bootstrap-Portfolio/assets/css/style.css",
+		"/C/Users/jsand/Documents/Coding Bootcamp/Bootstrap-Portfolio/portfolio.html",
+		"/C/Users/jsand/Documents/Coding Bootcamp/Bootstrap-Portfolio/index.html",
+		"/C/Users/jsand/Downloads/prompt-sushi.html",
+		"/C/Users/jsand/Downloads/prompt-demo.html",
+		"/C/Users/jsand/Downloads/superhero-logging-solved-with-functions.html",
+		"/C/Users/jsand/Downloads/my-first-functions-unsolved.html",
+		"/C/Users/jsand/Downloads/loop-tv-unsolved.html",
+		"/C/Users/jsand/Documents/Coding Bootcamp/Responsive-Portfolio/contact.html",
+		"/C/Users/jsand/Desktop/typograph/html-template.html",
+		"/C/Users/jsand/Documents/Coding Bootcamp/PREWORK_JRS/Module-8/fanpage.html",
+		"/C/Users/jsand/Desktop/wireframe.html",
+		"/C/Users/jsand/Desktop/sat.html",
+		"/C/Users/jsand/Desktop/typograph/style.css",
+		"/C/Users/jsand/Documents/Coding Bootcamp/Basic-Portfolio/index.html",
+		"/C/Users/jsand/Documents/Coding Bootcamp/Basic-Portfolio/portfolio.html",
+		"/C/Users/jsand/Documents/Coding Bootcamp/Basic-Portfolio/assets/css/style.css",
+		"/C/Users/jsand/Documents/Coding Bootcamp/Basic-Portfolio/contact.html",
+		"/C/Users/jsand/Desktop/jrs112.github.io/index.html",
+		"/C/Users/jsand/Desktop/jrs112.github.io/reset.css",
+		"/C/Users/jsand/Desktop/reset/reset.css",
+		"/C/Users/jsand/Desktop/reset/index.html",
+		"/C/Users/jsand/Documents/Coding Bootcamp/PREWORK_JRS/Module-9/index.html",
+		"/C/Users/jsand/Desktop/Unsolved/floats.css",
+		"/C/Users/jsand/Desktop/Unsolved/floats.html",
+		"/C/Users/jsand/Desktop/class project/positioning.css",
+		"/C/Users/jsand/Desktop/class project/positioning.html",
+		"/C/Users/jsand/Desktop/RelativePaths_UNSOLVED/RelativePaths_4/HTML/html-bio.html",
+		"/C/Users/jsand/Desktop/RelativePaths_UNSOLVED/RelativePaths_3/html-bio.html",
+		"/C/Users/jsand/Desktop/RelativePaths_UNSOLVED/RelativePaths_2/html-bio.html",
+		"/C/Users/jsand/Desktop/RelativePaths_UNSOLVED/RelativePaths_1/html-bio.html",
+		"/C/Users/jsand/Desktop/RelativePaths_UNSOLVED/RelativePaths_1/style.css",
+		"/C/Users/jsand/Desktop/week1-day2-html-css/css/student-bio.html.html",
+		"/C/Users/jsand/Desktop/week1-day2-html-css/css/style.css",
+		"/C/Users/jsand/Desktop/week1-day2-html-css/css/Bio.html",
+		"/C/Users/jsand/Downloads/html-bio-with-css.html",
+		"/C/Users/jsand/Desktop/Hornets/Hornets/2-16-17 class.html",
+		"/C/Users/jsand/Documents/Coding Bootcamp/Assignment 10/javascript.js",
+		"/C/Users/jsand/Documents/Coding Bootcamp/Assignment 10/index.html",
+		"/C/Users/jsand/Documents/Coding Bootcamp/Module 9 Assignment/style.css",
+		"/C/Users/jsand/Documents/Coding Bootcamp/Module 9 Assignment/index.html",
+		"/C/Users/jsand/Documents/Coding Bootcamp/style.css",
+		"/C/Users/jsand/Documents/Coding Bootcamp/index.html",
+		"/C/Users/jsand/Desktop/Donut.html",
+		"/C/Users/jsand/Documents/Coding Bootcamp/fanpage.html",
+		"/C/Users/jsand/Desktop/My first website.html",
+		"/C/Users/jsand/Desktop/New folder/WorkingCode/GrumpyCat.html",
+		"/C/Users/jsand/Desktop/Broken_and_Working_Code.zip"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"both"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
